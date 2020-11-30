@@ -73,10 +73,7 @@ async def start(bot, update):
                     InlineKeyboardButton('Support Channel', url='https://t.me/dhashamoolam_media'),
                     InlineKeyboardButton('Feedback', url='https://t.me/dhashamoolam_dhamu')
                 ],
-                [
-                    InlineKeyboardButton('Other Bots', url='https://t.me/dhashamoolam_media'),
-                    InlineKeyboardButton('Source', url='https://github.com/No-OnE-Kn0wS-Me/FileRenameBot')
-                ]
+                
             ]
         ),
         reply_to_message_id=update.message_id
