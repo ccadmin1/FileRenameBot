@@ -70,11 +70,11 @@ async def start(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Support Channel', url='https://t.me/Mai_bOTs'),
-                    InlineKeyboardButton('Feedback', url='https://t.me/No_OnE_Kn0wS_Me')
+                    InlineKeyboardButton('Support Channel', url='https://t.me/dhashamoolam_media'),
+                    InlineKeyboardButton('Feedback', url='https://t.me/dhashamoolam_dhamu')
                 ],
                 [
-                    InlineKeyboardButton('Other Bots', url='https://t.me/Mai_bOTs/17'),
+                    InlineKeyboardButton('Other Bots', url='https://t.me/dhashamoolam_media'),
                     InlineKeyboardButton('Source', url='https://github.com/No-OnE-Kn0wS-Me/FileRenameBot')
                 ]
             ]
