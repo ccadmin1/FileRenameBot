@@ -71,7 +71,7 @@ async def start(bot, update):
             [
                 [
                     InlineKeyboardButton('Support Channel', url='https://t.me/dhashamoolam_media'),
-                    InlineKeyboardButton('Feedback', url='https://t.me/dhashamoolam_dhamu')
+                    InlineKeyboardButton('Feedback', url='https://t.me/dhashamoolamdhamu')
                 ],
                 
             ]
